@@ -1,0 +1,13 @@
+{
+  "name": "sca-npm-dependencies-fixture",
+  "version": "1.0.0",
+  "description": "npm (JavaScript) dependencies for SCA scan — use this format only for Node/npm packages",
+  "dependencies": {
+    "next": "16.2.0-canary.4",
+    "electron": "40.6.1",
+    "zpak-parser": "1.0.0",
+    "parsel": "0.3.0",
+    "latest-version": "9.0.0",
+    "path-to-regexp": "0.1.0"
+  }
+}

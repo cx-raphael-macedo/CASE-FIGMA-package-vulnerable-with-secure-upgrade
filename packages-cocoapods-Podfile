@@ -1,0 +1,13 @@
+# CocoaPods dependencies for SCA scan (from packages image)
+# Use with: pod install
+# Platform: iOS / macOS
+
+platform :ios, '12.0'
+use_frameworks!
+
+target 'SCAFixtureApp' do
+  pod 'AanimationTransitionn', '0.0.2'
+  pod 'ABTextFieldAnimations', '0.2.1'
+  pod 'ACKeyboardObserver', '0.1.0'
+  pod 'ActorKit', '1.3.1'
+end
