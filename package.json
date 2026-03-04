@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "org.apache.tomcat.embed:tomcat-embed-core": "9.0.72",
+    "org.springframework:spring-web": "5.3.27",
+    "org.springframework:spring-webmvc": "5.3.27",
+    "org.yaml:snakeyaml": "1.33",
+    "AanimationTransitionn:AanimationTransitionn": "0.0.2",
+    "ABTextFieldAnimations:ABTextFieldAnimations": "0.2.1",
+    "ACKeyboardObserver:ACKeyboardObserver": "0.1.0",
+    "ActorKit:ActorKit": "1.3.1",
+    "junit:junit": "4.13.2",
+    "org.apache.httpcomponents:httpclient": "4.5.13"
+  }
+}
